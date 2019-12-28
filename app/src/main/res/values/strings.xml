@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Addition</string>
+    <string name="action_settings">Settings</string>
+    <string name="input_minutes_hint">minutes</string>
+    <string name="insertButtonText">Enter</string>
+    <string name="auto_running">Auto Running</string>
+    <string name="auto_run_minutes">Auto Run Minutes</string>
+    <string name="overlay_switch">Overlay</string>
+    <string name="show_notifications">Show Notifications</string>
+    <string name="overlay_button_text">overlay</string>
+    <string name="overlay_text">Overlay</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+</resources>
