@@ -3,7 +3,7 @@
 PokemonGo Walking App for Android
 
 "Walk" your eggs in PokemonGo!
-Simply press start and gain distance to hatch eggs quickly!
+Simply press enter and gain distance to hatch eggs quickly!
 
 (Make sure that adventure sync is enabled with Google Fit)
 
